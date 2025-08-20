@@ -1,4 +1,4 @@
-Introduction: [![Build Status](https://travis-ci.org/shirishk/Java-Selenium-TestNG-Automation-Framework.svg?branch=master)](https://travis-ci.org/shirishk/Java-Selenium-TestNG-Automation-Framework) [![Join the chat at https://gitter.im/shirishk/Java-Selenium-TestNG-Automation-Framework](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/shirishk/Java-Selenium-TestNG-Automation-Framework?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+Introduction: [![Build Status](https://travis-ci.org/shirishk/Java-Selenium-TestNG-Automation-Framework.svg?branch=master)](https://travis-ci.org/shirishk/Java-Selenium-TestNG-Automation-Framework) [![Join the chat at git@github.com:Puneeth-30/selenium-automation.git](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/shirishk/Java-Selenium-TestNG-Automation-Framework?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ---------------
 
 
@@ -25,7 +25,7 @@ Execution:
 *	Open command prompt and go to web-test directory.
 *	To run on local environment use command ....\.\Java-Selenium-TestNG-Automation-Framework> mvn clean test -Pdev
 
-<p><a href="https://github.com/shirishk/Java-Selenium-TestNG-Automation-Framework/wiki/Logging"><h2>Logging:</h2></a></p>
+<p><a href="git@github.com:Puneeth-30/selenium-automation.git"><h2>Logging:</h2></a></p>
 
 *	log4j configured to capture the test execution logs
 *	Configuration file is located at //config/log4j.xml
@@ -40,3 +40,4 @@ Reporting:
 ---------------
 *  The framework produce index.html report. It resides in the same 'target\surefire-reports' folder. This reports gives the link to all the different component of the TestNG reports like Groups & Reporter Output. On clicking these will display detailed descriptions of execution.
 *  You can find emailable-report.html from target\surefire-reports to email the test reports. As this is a html report you can open it with browser.
+
